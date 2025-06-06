@@ -1,0 +1,58 @@
+body {
+background-color: blue;
+
+}
+
+p{
+    text-align: center;
+    font-size: 56px
+    font-style: italic;
+}
+h1,h2{
+    text-align: center;
+    color: white;
+    font: size 30px; 
+     font-style:bold ;
+
+    }
+
+h1:hover,h2:hover{
+        color:black;
+    }
+
+    
+
+    #rec{
+        width: 169px;
+        height: 67px;
+        background-color: blue;
+        flex-direction: column;
+        display: flex;
+        color: beige;
+        align-items: center;
+        justify-content: center;
+        justify-self: center;
+        border-radius: 55px;
+
+
+
+    }
+    
+    #rec:hover
+    {
+        box-shadow: 50px;
+        background-color: brown;
+        margin-bottom: 40px;
+    }
+    
+    #cc:hover{
+        box-shadow: 50px;
+        background-color: brown;
+        margin-bottom: 40px;
+    }
+
+    img{
+        height: 169px;
+        
+
+    }
